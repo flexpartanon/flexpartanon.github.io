@@ -3,14 +3,14 @@
 
 | Case | | Center | Offset | Edge | Cluster |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **#1** | **Cond.** | <img src="figures/center1.png" width="230"> | <img src="figures/offset1.png" width="260"> | <img src="figures/edge1.png" width="350"> | <img src="figures/cluster1.png" width="224"> |
-| | **Res.** | <img src="figures/res_center1.png" width="230"> | <img src="figures/res_offset1.png" width="260"> | <img src="figures/res_edge1.png" width="350"> | <img src="figures/res_cluster1.png" width="224"> |
+| **#1** | **Cond.** | <img src="figures/center1.png" width="224"> | <img src="figures/offset1.png" width="224"> | <img src="figures/edge1.png" width="224"> | <img src="figures/cluster1.png" width="224"> |
+| | **Res.** | <img src="figures/res_center1.png" width="224"> | <img src="figures/res_offset1.png" width="224"> | <img src="figures/res_edge1.png" width="224"> | <img src="figures/res_cluster1.png" width="224"> |
 | --- | --- | --- | --- | --- | --- |
-| **#2** | **Cond.** | <img src="figures/center2.png" width="230"> | <img src="figures/offset2.png" width="260"> | <img src="figures/edge2.png" width="350"> | <img src="figures/cluster2.png" width="224"> |
-| | **Res.** | <img src="figures/res_center2.png" width="230"> | <img src="figures/res_offset2.png" width="260"> | <img src="figures/res_edge2.png" width="350"> | <img src="figures/res_cluster2.png" width="224"> |
+| **#2** | **Cond.** | <img src="figures/center2.png" width="224"> | <img src="figures/offset2.png" width="224"> | <img src="figures/edge2.png" width="224"> | <img src="figures/cluster2.png" width="224"> |
+| | **Res.** | <img src="figures/res_center2.png" width="224"> | <img src="figures/res_offset2.png" width="224"> | <img src="figures/res_edge2.png" width="224"> | <img src="figures/res_cluster2.png" width="224"> |
 | --- | --- | --- | --- | --- | --- |
-| **#3** | **Cond.** | <img src="figures/center3.png" width="230"> | <img src="figures/offset3.png" width="260"> | <img src="figures/edge3.png" width="350"> | <img src="figures/cluster3.png" width="224"> |
-| | **Res.** | <img src="figures/res_center3.png" width="230"> | <img src="figures/res_offset3.png" width="260"> | <img src="figures/res_edge3.png" width="350"> | <img src="figures/res_cluster3.png" width="224"> |
+| **#3** | **Cond.** | <img src="figures/center3.png" width="224"> | <img src="figures/offset3.png" width="224"> | <img src="figures/edge3.png" width="224"> | <img src="figures/cluster3.png" width="224"> |
+| | **Res.** | <img src="figures/res_center3.png" width="224"> | <img src="figures/res_offset3.png" width="224"> | <img src="figures/res_edge3.png" width="224"> | <img src="figures/res_cluster3.png" width="224"> |
 
 ---
 
@@ -18,8 +18,8 @@
 
 | Case | | Original Input | SAM (Ours) | Ground Truth |
 | :--- | :--- | :---: | :---: | :---: |
-| **#1** | **Input** | <img src="figures/input1.png" width="224"> | <img src="figures/sam_input1.png" width="265"> | <img src="figures/gt_mask1.png" width="230"> |
-| | **Result** | | <img src="figures/sam_output1.png" width="224"> | <img src="figures/gt_output1.png" width="180"> |
+| **#1** | **Input** | <img src="figures/input1.png" width="180"> | <img src="figures/sam_input1.png" width="180"> | <img src="figures/gt_mask1.png" width="180"> |
+| | **Result** | | <img src="figures/sam_output1.png" width="180"> | <img src="figures/gt_output1.png" width="180"> |
 | --- | --- | --- | --- | --- |
 | **#2** | **Input** | <img src="figures/input2.png" width="180"> | <img src="figures/sam_input2.png" width="180"> | <img src="figures/gt_mask2.png" width="180"> |
 | | **Result** | | <img src="figures/sam_output2.png" width="180"> | <img src="figures/gt_output2.png" width="180"> |
