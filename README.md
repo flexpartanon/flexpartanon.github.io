@@ -28,7 +28,4 @@
 | --- | --- | --- | --- | --- |
 | **#3** | **Input** | <img src="figures/input3.png" width="180"> | <img src="figures/sam_input3.png" width="180"> | <img src="figures/gt_mask3.png" width="180"> |
 | | **Result** | | <img src="figures/sam_output3.png" width="180"> | <img src="figures/gt_output3.png" width="180"> |
-| --- | --- | --- | --- | --- |
-| **#4** | **Input** | <img src="figures/input4.png" width="180"> | <img src="figures/sam_input4.png" width="180"> | <img src="figures/gt_mask4.png" width="180"> |
-| | **Result** | | <img src="figures/sam_output4.png" width="180"> | <img src="figures/gt_output4.png" width="180"> |
 
