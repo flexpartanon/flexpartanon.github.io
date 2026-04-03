@@ -4,14 +4,14 @@
 
 | Case | | Center | Offset | Edge | Cluster |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **#1** | **Cond.** | <img src="figures/center1.png" width="224"> | <img src="figures/offset1.png" width="224"> | <img src="figures/edge1.png" width="224"> | <img src="figures/cluster1.png" width="224"> |
-| | **Res.** | <img src="figures/res_center1.png" width="224"> | <img src="figures/res_offset1.png" width="224"> | <img src="figures/res_edge1.png" width="224"> | <img src="figures/res_cluster1.png" width="224"> |
+| **#1** | **Condition** | <img src="figures/center1.png" width="224"> | <img src="figures/offset1.png" width="224"> | <img src="figures/edge1.png" width="224"> | <img src="figures/cluster1.png" width="224"> |
+| | **Result** | <img src="figures/res_center1.png" width="224"> | <img src="figures/res_offset1.png" width="224"> | <img src="figures/res_edge1.png" width="224"> | <img src="figures/res_cluster1.png" width="224"> |
 | --- | --- | --- | --- | --- | --- |
-| **#2** | **Cond.** | <img src="figures/center2.png" width="224"> | <img src="figures/offset2.png" width="224"> | <img src="figures/edge2.png" width="224"> | <img src="figures/cluster2.png" width="224"> |
-| | **Res.** | <img src="figures/res_center2.png" width="224"> | <img src="figures/res_offset2.png" width="224"> | <img src="figures/res_edge2.png" width="224"> | <img src="figures/res_cluster2.png" width="224"> |
+| **#2** | **Condition** | <img src="figures/center2.png" width="224"> | <img src="figures/offset2.png" width="224"> | <img src="figures/edge2.png" width="224"> | <img src="figures/cluster2.png" width="224"> |
+| | **Result** | <img src="figures/res_center2.png" width="224"> | <img src="figures/res_offset2.png" width="224"> | <img src="figures/res_edge2.png" width="224"> | <img src="figures/res_cluster2.png" width="224"> |
 | --- | --- | --- | --- | --- | --- |
-| **#3** | **Cond.** | <img src="figures/center3.png" width="224"> | <img src="figures/offset3.png" width="224"> | <img src="figures/edge3.png" width="224"> | <img src="figures/cluster3.png" width="224"> |
-| | **Res.** | <img src="figures/res_center3.png" width="224"> | <img src="figures/res_offset3.png" width="224"> | <img src="figures/res_edge3.png" width="224"> | <img src="figures/res_cluster3.png" width="224"> |
+| **#3** | **Condition** | <img src="figures/center3.png" width="224"> | <img src="figures/offset3.png" width="224"> | <img src="figures/edge3.png" width="224"> | <img src="figures/cluster3.png" width="224"> |
+| | **Result** | <img src="figures/res_center3.png" width="224"> | <img src="figures/res_offset3.png" width="224"> | <img src="figures/res_edge3.png" width="224"> | <img src="figures/res_cluster3.png" width="224"> |
 
 ---
 ### <font color="#8B0000">For Reviewer cY22: Analysis of the SAM Interface</font>
