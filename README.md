@@ -29,3 +29,9 @@
 | **#3** | **Input** | <img src="figures/input3.png" width="180"> | <img src="figures/sam_input3.png" width="180"> | <img src="figures/gt_mask3.png" width="180"> |
 | | **Result** | | <img src="figures/sam_output3.png" width="180"> | <img src="figures/gt_output3.png" width="180"> |
 
+---
+### <font color="#8B0000">Visualizations of FlexPart on Topologically Complex Assets.</font>
+
+Table 3. Generalization to complex topologies. Our method directly processes user-provided point or box prompts to generate 3D part assets.
+
+<img src="figures/rendering.png" width="800">
